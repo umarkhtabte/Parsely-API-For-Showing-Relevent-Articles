@@ -50,7 +50,7 @@ if ($response === false) {
 
 curl_close($ch);
 
-// This is used for Showing user History which posts he is seeing in last few days 
+// This is used for Showing user History which posts he is seeing in last few days use it according to your need
 // $historyEndpoint = 'https://api.parsely.com/v2/history';
 
 // $ch = curl_init($historyEndpoint . '?apikey=' . $apiKey . '&uuid=' . $uuid);
