@@ -4,6 +4,7 @@ Plugin Name: Parsely Relevant Article Widget
 Description: A custom Parsely Relevant Article widget displaying personalized content on single post page.
 Version: 1.0
 Author: Umar Khtab
+Author URL: https://umarkhtab.wuaze.com/
 */
 
 // Add CSS file for parsely widget
